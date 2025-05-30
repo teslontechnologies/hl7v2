@@ -1,16 +1,7 @@
 {
   "name": "hl7v2",
   "description": "HL7 v2 parser, serializer, validator and tcp client/server for NodeJS",
-  "version": "0.14.0",
-  "author": "Panates Ltd.",
-  "contributors": [
-    "Eray Hanoglu <e.hanoglu@panates.com>"
-  ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/panates/hl7v2.git"
-  },
+  "version": "0.15.0",
   "keywords": [
     "javascript",
     "hl7",
